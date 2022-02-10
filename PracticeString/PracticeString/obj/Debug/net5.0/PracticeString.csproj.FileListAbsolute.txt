@@ -1,0 +1,15 @@
+/Users/hungtran/Projects/PracticeString/PracticeString/bin/Debug/net5.0/PracticeString.deps.json
+/Users/hungtran/Projects/PracticeString/PracticeString/bin/Debug/net5.0/PracticeString.runtimeconfig.json
+/Users/hungtran/Projects/PracticeString/PracticeString/bin/Debug/net5.0/PracticeString.runtimeconfig.dev.json
+/Users/hungtran/Projects/PracticeString/PracticeString/bin/Debug/net5.0/PracticeString.dll
+/Users/hungtran/Projects/PracticeString/PracticeString/bin/Debug/net5.0/ref/PracticeString.dll
+/Users/hungtran/Projects/PracticeString/PracticeString/bin/Debug/net5.0/PracticeString.pdb
+/Users/hungtran/Projects/PracticeString/PracticeString/obj/Debug/net5.0/PracticeString.csproj.AssemblyReference.cache
+/Users/hungtran/Projects/PracticeString/PracticeString/obj/Debug/net5.0/PracticeString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hungtran/Projects/PracticeString/PracticeString/obj/Debug/net5.0/PracticeString.AssemblyInfoInputs.cache
+/Users/hungtran/Projects/PracticeString/PracticeString/obj/Debug/net5.0/PracticeString.AssemblyInfo.cs
+/Users/hungtran/Projects/PracticeString/PracticeString/obj/Debug/net5.0/PracticeString.csproj.CoreCompileInputs.cache
+/Users/hungtran/Projects/PracticeString/PracticeString/obj/Debug/net5.0/PracticeString.dll
+/Users/hungtran/Projects/PracticeString/PracticeString/obj/Debug/net5.0/ref/PracticeString.dll
+/Users/hungtran/Projects/PracticeString/PracticeString/obj/Debug/net5.0/PracticeString.pdb
+/Users/hungtran/Projects/PracticeString/PracticeString/obj/Debug/net5.0/PracticeString.genruntimeconfig.cache
